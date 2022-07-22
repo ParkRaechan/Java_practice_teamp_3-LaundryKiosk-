@@ -22,10 +22,21 @@
   
 ![image](https://user-images.githubusercontent.com/100547978/180413907-79ef91bc-6b58-4a1d-8bb1-096265fd6c4c.png)  
   
-
-
-
-
+![image](https://user-images.githubusercontent.com/100547978/180414069-babb9a6d-bde6-41cf-b934-0f33e369f645.png)
+  
+![image](https://user-images.githubusercontent.com/100547978/180414096-61076b78-1b91-4a76-bb7d-6b283a9b73e1.png)  
+  
+![image](https://user-images.githubusercontent.com/100547978/180414138-10e0df63-d7c7-42c7-afe4-db4d8c300515.png)  
+  
+![image](https://user-images.githubusercontent.com/100547978/180414168-700ebbb9-a015-4005-9677-e62fe778a132.png)  
+  
+![image](https://user-images.githubusercontent.com/100547978/180414205-12b742ad-7108-441e-837f-887e293450e1.png)  
+  
+![image](https://user-images.githubusercontent.com/100547978/180414286-5ae66b76-c28f-4a78-84b2-2c2362da2ffa.png)  
+  
+![image](https://user-images.githubusercontent.com/100547978/180414346-6e161982-59de-4a3c-84f0-c7058b84a25b.png)  
+  
+  
 ### 1. 주제선정 브레인 스토밍
 ![팀플 re6_2 기초2](https://user-images.githubusercontent.com/100547978/163544146-cf73d27e-3582-48d8-ad2c-a472da80c302.jpg)
 
