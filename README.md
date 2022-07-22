@@ -17,24 +17,23 @@
 11. 오류검출테스트
 12. 최종점검
 
+  
+![1](https://user-images.githubusercontent.com/100547978/180419125-984b69bb-26fa-4586-b441-b2146417997b.png)  
+  
+![2](https://user-images.githubusercontent.com/100547978/180419135-d12c44a2-51f2-4a03-9aed-e3dbb01bd2d0.png)  
+  
+![3](https://user-images.githubusercontent.com/100547978/180419146-8fd3e921-0a13-42b9-9737-37880b7c28ae.png)  
+  
+![4](https://user-images.githubusercontent.com/100547978/180419156-129e549a-ef7a-4932-9375-ea70e7c3ddc8.png)  
+  
+![5](https://user-images.githubusercontent.com/100547978/180419164-71d9a1d0-903e-45eb-9edb-bf983e31a062.png)  
+  
+![6](https://user-images.githubusercontent.com/100547978/180419173-649f292b-0b21-41a9-913e-dc7f17798358.png)  
+  
+![7](https://user-images.githubusercontent.com/100547978/180419180-99d96f4f-d52c-483e-b573-9fec1368a800.png)  
+  
+  
 
-
-  
-![image](https://user-images.githubusercontent.com/100547978/180413907-79ef91bc-6b58-4a1d-8bb1-096265fd6c4c.png)  
-  
-![image](https://user-images.githubusercontent.com/100547978/180414069-babb9a6d-bde6-41cf-b934-0f33e369f645.png)
-  
-![image](https://user-images.githubusercontent.com/100547978/180414096-61076b78-1b91-4a76-bb7d-6b283a9b73e1.png)  
-  
-![image](https://user-images.githubusercontent.com/100547978/180414138-10e0df63-d7c7-42c7-afe4-db4d8c300515.png)  
-  
-![image](https://user-images.githubusercontent.com/100547978/180414168-700ebbb9-a015-4005-9677-e62fe778a132.png)  
-  
-![image](https://user-images.githubusercontent.com/100547978/180414205-12b742ad-7108-441e-837f-887e293450e1.png)  
-  
-![image](https://user-images.githubusercontent.com/100547978/180414286-5ae66b76-c28f-4a78-84b2-2c2362da2ffa.png)  
-  
-![image](https://user-images.githubusercontent.com/100547978/180414346-6e161982-59de-4a3c-84f0-c7058b84a25b.png)  
   
   
 ### 1. 주제선정 브레인 스토밍
